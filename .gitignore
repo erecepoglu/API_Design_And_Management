@@ -1,10 +1,2 @@
-bin/
-include/
-lib/
-lib64/
-pyvenv.cfg
-first_api/first_api/lib64
-package.json
-package-lock.json
-.package-lock.json
-*.out
+*/*
+!index.js
